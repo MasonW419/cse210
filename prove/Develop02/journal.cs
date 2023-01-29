@@ -25,6 +25,11 @@ public class Journal
         this._prompts.Add("How did I see the hand of the Lord in my life today?");
         this._prompts.Add("What was the strongest emotion I felt today?");
         this._prompts.Add("If I had one thing I could do over today, what would it be?");
+        this._prompts.Add("What is one piece of advice you can write to yourself ten years later?");
+        this._prompts.Add("What scripture will you try to commit yourself to follow tomorrow?");
+        this._prompts.Add("Think of someone you haven't seen in a long while. What would you say to them if you could?");
+        this._prompts.Add("What goals do you want to make or work on?");
+        this._prompts.Add("What is something you learned today?");
 
         while (_journalActive) {
             MenuDisplay();
