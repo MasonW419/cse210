@@ -10,5 +10,6 @@ class Program
         resume._jobList.Add(joby);
         resume._jobList.Add(jobo);
         resume.Display();
+        Console.ReadLine();
     }
 }
