@@ -13,10 +13,10 @@ class Program
         videos[0].AddComment("Shawn", "A little disappointed that this wasn't a psychological thriller, but at least it wasn't that bad.");
         videos[1].AddComment("Aaron", "I didn't imagine this game could be obliterated like this! Now I know.");
         videos[1].AddComment("Michael", "Is that even humanly possible?");
-        videos[1].AddComment("Jay", "Placeholder");
-        videos[2].AddComment("Nick", "Placeholder");
-        videos[2].AddComment("Sean", "Placeholder");
-        videos[2].AddComment("Abby", "Placeholer");
+        videos[1].AddComment("Jay", "What's causing the frame rates to drop");
+        videos[2].AddComment("Nick", "1:03 lol");
+        videos[2].AddComment("Sean", "That cat looked so confused");
+        videos[2].AddComment("Abby", "This video has the widest range of animals that I've ever seen");
         foreach(Video v in videos)
         {
             PrintVideoComments(v);
