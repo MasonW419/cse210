@@ -115,7 +115,7 @@
             "program": "${workspaceFolder}/prepare/Learning04/bin/Debug/net7.0/Learning04.dll",
             "args": [],
             "cwd": "${workspaceFolder}/prepare/Learning04",
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
@@ -141,7 +141,7 @@
             "program": "${workspaceFolder}/prove/Develop02/bin/Debug/net7.0/Develop02.dll",
             "args": [],
             "cwd": "${workspaceFolder}/prove/Develop02",
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
@@ -154,7 +154,7 @@
             "program": "${workspaceFolder}/prove/Develop03/bin/Debug/net7.0/Develop03.dll",
             "args": [],
             "cwd": "${workspaceFolder}/prove/Develop03",
-            "console": "integratedTerminal",
+            "console": "externalTerminal",
             "internalConsoleOptions": "neverOpen",
             "stopAtEntry": false
         },
